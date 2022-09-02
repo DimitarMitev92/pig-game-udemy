@@ -8,4 +8,5 @@
     <li>If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.</li>
     </ul>
 <p>The first player to score 100 or more points wins.</p>
+<p> If you want to see it. <a href="">Click here.</a></p>
 
