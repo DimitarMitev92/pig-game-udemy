@@ -1,4 +1,4 @@
-Pig Game\
+Pig Game
 ========
 
 Welcome to the Pig Game repository! This repository contains the source code for the Pig Game, a dice rolling game where players take turns trying to reach a specific score. The game is built using HTML, CSS, and JavaScript, and it serves as a project for the Udemy course "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann.
